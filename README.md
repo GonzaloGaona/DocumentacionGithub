@@ -173,7 +173,7 @@ Entre las cosas más importantes es poner imágenes, para eso se usa una línea 
 Para poder subir imágenes al documento que se está trabajando en Markdown, es necesario que nuestras imágenes se encuentren en la web, no importa en que sitio o página, pero sí deben estar sí o sí en la web, sobre todo porque se usa el link para poder poner imágenes, por ejemplo para poder usar las imágenes que están en este documento 
 A continuación se muestra en un video el ejemplo:
 
-[**"Video" Poner imagen en archivo de MEditor.md](https://youtu.be/AgF1dOBAX2U)
+[**"Video" Poner imagen en archivo de MEditor.md**](https://youtu.be/AgF1dOBAX2U)
 
 **6.3** Poner hipervínculos en sustitución de los links.
 Otra de las cosas importantes y sobre todo por apariencia o estética de nuestro documento, es poner hipervínculos en los textos, para eso se usa la línea de cósdigo siguiente:
@@ -183,7 +183,7 @@ Otra de las cosas importantes y sobre todo por apariencia o estética de nuestro
 En las letras verdes se pone un nombre que haga referencia a lo que se quiera poner en hipervínculo, por ejemplo si es una carpeta, se pone el nombre de la carpeta, si es el nombre de alguna página en la web, se pondrá el nombre de lo que hay en la página o de lo que se quiera mostrar en dicha página, mientras mas corta sea la palabra, se verá mejor.
 A continuación se encuentra un video como ejemplo:
 
-[**"Video" Poner hipervínculo en un archivo de MEditor.md](https://youtu.be/C-dIVAyYkTc)
+[**"Video" Poner hipervínculo en un archivo de MEditor.md**](https://youtu.be/C-dIVAyYkTc)
 
 **6.4** Algunas herramientas útiles
 
