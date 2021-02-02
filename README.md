@@ -10,7 +10,7 @@
 
 **4. Subír carpetas a GitHub usando la terminal virtual Git Bash en Windows**
 
-**5. Subir carpetas a GitHub usando la terminal en Linux**
+**5. Subír carpetas a GitHub usando la terminal en Linux**
 
 **6. Usar MEditor, página para crear documentos en intérprete Markdown, en sustitución de documentos PDF y Word para editarlos fácilmente**
 
