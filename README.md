@@ -112,7 +112,7 @@ En el número 3 está la opción para hacer el proceso si usamos **Linux** (que 
 
 ### Hasta este punto, crearon un repositorio, crearon una llave y la agregaron. A continuación se encuentra un video del proceso desde Linux.
 
-[**"Video" SSH And Key en Linux**](https://youtu.be/0P8YlYJO_DE)
+[**"Video" SSH And Key en Linux**](https://youtu.be/XKvaH48ZetQ)
 
 #### 3. Seguir el ejemplo del repositorio "Sensor H2O" para las carpetas y el README.md
 
@@ -141,7 +141,7 @@ También, si tienes dudas en los pasos y seguramente alguna duda que no sea intu
 
 Para subir carpetas a su repositorio desde la terminal de Linux, realicé un video y no describiré a detalle porque es básicamente lo mismo que en Windows, seguramente algo es diferente, pero se describe en el video de manera rápida. El video está en el siguiente hipervínculo:
 
-[**"Video" Subir carpetas a Github desde Linux**](https://youtu.be/9z7DqhdOkKQ)
+[**"Video" Subir carpetas a Github desde Linux**](https://youtu.be/2nfnHXf9fb4)
 
 #### 6. Usar MEditor, página para crear documentos en intérprete Markdown, en sustitución de documentos PDF y Word para editarlos fácilmente.
 La intención de crear la documentación en Markdown es para evitar usar los documentos en **PDF** y **Word** que puede resultar difícil al momento de querer editarlos, Markdown ofrece esa facilidad de poder modificar rápido y sin mayor complicaciones por la sencillez del editor que a continuación les presento. La principal ventaja es porque lo hace completamente compatible con la plataforma en Github y se puede editar directamente en la web, no es necesario que se descarguen los archivos para poder editarlos.
@@ -244,7 +244,7 @@ Para subir archivos a tu repositorio cuando ya tienes carpetas, se puede hacer u
 
 Para subir archivos a nuestras carpetas en Github, se puede hacer usando la terminal en Linux, el video de ejemplo es el siguiente:
 
-[**"Video" Subir archivos a las carpetas de Github en Linux**](https://youtu.be/maWMFiRqe9k)
+[**"Video" Subir archivos a las carpetas de Github en Linux**](https://youtu.be/H2CYMH1cJAA)
 
 ** 10. Subir archivos desde la web en Github, cuando ya tenemos carpetas en el repositorio**
 
