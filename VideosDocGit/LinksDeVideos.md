@@ -1,11 +1,11 @@
 1. **"Video" SSH And Key en Linux**
-Link: https://youtu.be/0P8YlYJO_DE
+Link: https://youtu.be/XKvaH48ZetQ
 
-2. **"Video"Subir carpetas con la terminal en Windows**
+2. **"Video" Subir carpetas con la terminal en Windows**
 Link: https://youtu.be/nxXQTUPRClA
 
 3. **"Video" Subir carpetas a Github desde Linux**
-Link: https://youtu.be/9z7DqhdOkKQ
+Link: https://youtu.be/2nfnHXf9fb4
 
 4. **"Video" Poner imagen en archivo de MEditor.md**
 Link: https://youtu.be/AgF1dOBAX2U
@@ -23,7 +23,7 @@ Link: https://youtu.be/CVu9eHmeNpk
 Link: https://youtu.be/0T_jvGFOur0
 
 9. **"Video" Subir archivos a las carpetas de Github en Linux**
-Link: https://youtu.be/maWMFiRqe9k
+Link: https://youtu.be/H2CYMH1cJAA
 
 10. **"Video" Subir archivos a Github desde la web**
 Link: https://youtu.be/aZUFPbPD7BM
